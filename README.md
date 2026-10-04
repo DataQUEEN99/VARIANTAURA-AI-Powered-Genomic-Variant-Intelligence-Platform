@@ -1,0 +1,2 @@
+# VARIANTAURA-AI-Powered-Genomic-Variant-Intelligence-Platform
+VARIANTAURA is an end-to-end AI-driven genomic variant intelligence platform designed to analyze and prioritize genetic variants using machine learning, explainable AI, evidence scoring, and anomaly detection. The platform processes genomic variant features such as PrimateAI, SpliceAI, PhyloP, CADD, REVEL, and population allele frequency, 
